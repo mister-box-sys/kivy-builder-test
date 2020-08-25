@@ -1,6 +1,7 @@
 from kivy.app import App
 from kivy.lang import Builder
 from kivy.uix.boxlayout import BoxLayout
+from sub import *
 
 Builder.load_file('sub.kv')
 
